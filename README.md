@@ -18,5 +18,5 @@
 </a>
 
 #### :bulb: Estatísticas
-<a>![Status](https://github-readme-stats.vercel.app/api?username=GilbertoKPL&show_icons=true&count_private=true&theme=nightowl&locale=pt-br&hide=prs,issues)</a>
-<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoKPL&hide=html&layout=compact&theme=nightowl&locale=pt-br)</a>
+<a>![Status](https://github-readme-stats.vercel.app/api?username=eomuhzin&show_icons=true&count_private=true&theme=nightowl&locale=pt-br&hide=prs,issues)</a>
+<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomuhzin&hide=html&layout=compact&theme=nightowl&locale=pt-br)</a>
