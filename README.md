@@ -1,7 +1,5 @@
 ## ⚡ Olá, meu nome é eomuhzin
 
-<a href="https://github.com/eomuhzin"><img alt="Github Badge" src="https://img.shields.io/badge/-Github-4B0082?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/eomuhzin" /></a>
-
 #### :speech_balloon: Linguagens
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-4B0082.svg?style=for-the-badge&logo=java&logoColor=FF2C00" /></a>
 <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-4B0082.svg?style=for-the-badge&logo=java&logoColor=FF2C00" /></a>
