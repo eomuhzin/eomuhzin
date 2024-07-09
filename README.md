@@ -1,4 +1,4 @@
-## ⚡ Olá, meu nome é eomuhzin
+## ⚡ Olá, meu nome é Murillo Frazão Cunha
 
 #### :speech_balloon: Linguagens
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-4B0082.svg?style=for-the-badge&logo=java&logoColor=FF2C00" /></a>
